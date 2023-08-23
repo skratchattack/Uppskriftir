@@ -4,7 +4,6 @@
 "category": "Dessert",
 "allergies": ["Lactose-free"],
 "directions": [
-        "instructions": [
 "Whisk together the eggs and both sugars until fluffy.",
 "Melt the butter and combine with the oil, then set aside.",
 "Chop up the mixed nuts or pulse them briefly in a mixer, then set aside.",
@@ -21,8 +20,8 @@
 "Moisten the cake by splashing or brushing it with orange juice.",
 "Once the juice has been absorbed, spread cream cheese topping over the cake.",
 "Decorate with fresh berries and serve."
-    ],
-    "ingredients": [
+],
+"ingredients": [
 {"name": "Egg", "amount": "1200", "state": "Whole"},
 {"name": "Brown Sugar", "amount": "1200"},
 {"name": "Sugar", "amount": "900"},
@@ -40,15 +39,15 @@
 {"name": "Hazelnuts", "amount": "200", "state": "Chopped"}
 {"name": "Walnuts", "amount": "200", "state": "Chopped"}
 {"name": "Cashew", "amount": "200", "state": "Chopped"}
-    ],
-    "language": "en-US",
-    "source": "Orri",
-    "tags": [
-        "Cake",
-        "Mixer",
-        "Egg",
-        "Dessert",
-        "Bake",
-        "Nut",
-    ],
+],
+"language": "en-US",
+"source": "Orri",
+"tags": [
+"Cake",
+"Mixer",
+"Egg",
+"Dessert",
+"Bake",
+"Nut",
+],
 }

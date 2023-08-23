@@ -36,8 +36,8 @@
 {"name": "Ginger", "amount": "60", "state": "Mashed"},
 {"name": "Butter", "amount": "600", "state": ["Melted", "Lactose Free"]},
 {"name": "Oil", "amount": "300"},
-{"name": "Hazelnuts", "amount": "200", "state": "Chopped"}
-{"name": "Walnuts", "amount": "200", "state": "Chopped"}
+{"name": "Hazelnuts", "amount": "200", "state": "Chopped"},
+{"name": "Walnuts", "amount": "200", "state": "Chopped"},
 {"name": "Cashew", "amount": "200", "state": "Chopped"}
 ],
 "language": "en-US",

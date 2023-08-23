@@ -1,5 +1,4 @@
-[
-    {
+
         "id": "recipe123",
         "name": "Carrot Cake",
         "category": "Dessert",
@@ -41,5 +40,3 @@
             "Once the juice has been absorbed, spread cream cheese topping over the cake.",
             "Decorate with fresh berries and serve."
         ]
-    }
-]

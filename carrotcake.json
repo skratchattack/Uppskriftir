@@ -31,50 +31,58 @@
       },
       {
          "name":"Brown Sugar",
-         "amount":"1200"
+         "amount":"1200",
+         "state":[]
       },
       {
          "name":"Sugar",
          "amount":"900"
+         "state":[]
       },
       {
          "name":"Flour",
          "amount":"1680"
+         "state":[]
       },
       {
          "name":"Baking Soda",
          "amount":"75"
+         "state":[]
       },
       {
          "name":"Baking Powder",
          "amount":"50"
+         "state":[]
       },
       {
          "name":"Cinnamon",
          "amount":"30"
+         "state":[]
       },
       {
          "name":"Vanilla Sugar",
          "amount":"50"
+         "state":[]
       },
       {
          "name":"Cardamom",
          "amount":"30"
+         "state":[]
       },
       {
          "name":"Carrot",
          "amount":"1000",
-         "state":"Mashed"
+         "state":["Mashed"]
       },
       {
          "name":"Carrot",
          "amount":"1000",
-         "state":"Grated"
+         "state":["Grated"]
       },
       {
          "name":"Ginger",
          "amount":"60",
-         "state":"Mashed"
+         "state":["Mashed"]
       },
       {
          "name":"Butter",
@@ -87,21 +95,22 @@
       {
          "name":"Oil",
          "amount":"300"
+         "state":[]
       },
       {
          "name":"Hazelnuts",
          "amount":"200",
-         "state":"Chopped"
+         "state":["Chopped"]
       },
       {
          "name":"Walnuts",
          "amount":"200",
-         "state":"Chopped"
+         "state":["Chopped"]
       },
       {
          "name":"Cashew",
          "amount":"200",
-         "state":"Chopped"
+         "state":["Chopped"]
       }
    ],
    "language":"en-US",
